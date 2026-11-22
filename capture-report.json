@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "capturedAt": "2026-11-22T06:04:58.185Z",
+  "sourceUrl": "https://v86project25.youware.app/",
+  "filtersApplied": {
+    "excludeTrackingPixels": true,
+    "excludeThirdPartyFonts": false,
+    "excludeThirdPartyStyles": false
+  },
+  "excludedResources": [],
+  "missingResources": [],
+  "fonts": {
+    "declared": [],
+    "downloaded": []
+  },
+  "baseline": null
+}
